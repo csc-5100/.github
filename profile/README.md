@@ -2,4 +2,4 @@
 
 # Modern Software Engineering
 
-Java examples, educational tools, applications, and games supporting **CSC 3100: Introduction to Software Engineering**.
+Java examples, educational tools, applications, and games supporting **CSC 5100: Modern Software Engineering**.
