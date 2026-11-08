@@ -1,4 +1,4 @@
-<img width="1600" height="160" alt="github banner" src="https://github.com/user-attachments/assets/f4b1f030-3895-4fa7-a2bb-cc8373cef90b" />
+![CSC 5100 course banner](assets/5100-banner.png)
 
 # Modern Software Engineering
 
